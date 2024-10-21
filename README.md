@@ -1,6 +1,6 @@
 # Teaching Models to Balance Resisting and Accepting Persuasion
 
-This is the official implementation for [Teaching Models to Balance Resisting and Accepting Persuasion](TODO)
+This is the official implementation for [Teaching Models to Balance Resisting and Accepting Persuasion](https://arxiv.org/abs/2410.14596)
 
 
 ### Authors: [Elias Stengel-Eskin](https://esteng.github.io), [Peter Hase](https://peterbhase.github.io), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
@@ -105,8 +105,9 @@ Please cite our paper if you use our models in your work:
 @article{stengeleskin2024persuasion,
   title={Teaching Models to Balance Resisting and Accepting Persuasion, 
   author={Stengel-Eskin, Elias and Hase, Peter and Bansal, Mohit}, 
-  journal={arXiv preprint arXiv:TODO},
-  year={2024}
+  journal={arXiv preprint arXiv:2410.14596},
+  year={2024},
+  url={https://arxiv.org/abs/2410.14596}
 }
 
 
